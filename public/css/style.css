@@ -1,0 +1,15 @@
+#display {
+  font-family: 'Helvetica', sans-serif;
+}
+
+#display h1 {
+  font-size: 50px;
+}
+
+#form {
+  margin-bottom: 100px;
+}
+
+#form label, button {
+  display: block;
+}

@@ -1,0 +1,25 @@
+{
+  "name": "orphan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kellyzjxu/bostonhacks17.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kellyzjxu/bostonhacks17/issues"
+  },
+  "homepage": "https://github.com/kellyzjxu/bostonhacks17#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "json-2-csv": "^2.1.2"
+  }
+}
